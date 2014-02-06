@@ -1,11 +1,11 @@
 {
     "name": "gcds/morker",
-    "description": "PHP prefork based model master/worker library",
+    "description": " ",
     "version": "1.0.0-dev",
     "type": "library",
     "keywords": ["prefork", "fork"],
     "homepage": "http://github.com/gcds/morker",
-    "license": "",
+    "license": "GPLv3",
     "authors": [
         {
             "name": "Aurimas Niekis",
